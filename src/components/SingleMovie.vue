@@ -64,6 +64,7 @@ export default {
             flex-direction: column;
             align-items: center;
             width: 100%;
+            height: 100vh;
             background-color: #def0ff;
             box-shadow: 0px 0px 4px 1px #def0ff;
             border-radius: 0.25rem;
