@@ -69,6 +69,7 @@
         ul {
             list-style: none;
             padding: 0;
+            padding: 0.5rem;
         }
     }
 </style>
